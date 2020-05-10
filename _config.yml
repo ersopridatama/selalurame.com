@@ -8,8 +8,8 @@ collections:
   uploads:
     title: Uploads
     output: true
-name: Bacaan Seru
-description: Semua Bacaan Seru hanya di bacaanseru.com
+name: Selalu Rame
+description: Semua Berita Yang Selalu Rame Setiap Hari
 logo: assets/images/logo.png
 favicon: assets/images/logo.png
 baseurl: 
